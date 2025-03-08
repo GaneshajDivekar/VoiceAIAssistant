@@ -24,3 +24,4 @@ httpx~=0.28.1
 setuptools~=68.2.0
 uvicorn~=0.34.0
 twilio~=9.4.6
+python-multipart~=0.0.7
